@@ -1,4 +1,4 @@
-How to us
+*How to use
 
 $pkg update && pkg upgrade
 $pkg install python git
