@@ -12,7 +12,7 @@ o='\033[1;38;5;208m' # it's orange
 
 import time, os, sys
 
-def awal():
+def main_info():
 	print (w+"                                         _________-----_____")
 	print (w+"                             _____------           __      ----_ ")
 	print (w+"                     ___----             ___------              \ ")
